@@ -1,6 +1,6 @@
 # BetterBrowser
 
-<img href="banner.png"/>
+<img src="/banner.png"/>
 
 ## What is betterbrowser?
 A compilation of browser modifications and browsers that makes the internet experience better.
